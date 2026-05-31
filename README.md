@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+
 Computer Science
 
 - Year : 2014
